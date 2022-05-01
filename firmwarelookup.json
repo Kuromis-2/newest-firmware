@@ -1,19 +1,20 @@
 {
+    "baseLink": "https://raw.githubusercontent.com/Kuromis-2/newest-firmware/main/",
     "0.5.80": 
     {
-        "link": "https://github.com/Kuromis-2/newest-firmware/raw/main/fm6_dfu_package_0.5.80.zip",
+        "fileName": "fm6_dfu_package_0.5.80.zip",
         "changeLog": "First version"
     },
     "1.2.0_200ms": {
-        "link": "https://github.com/Kuromis-2/newest-firmware/raw/main/fm6_dfu_package_1.2.0_200ms.zip",
+        "fileName": "fm6_dfu_package_1.2.0_200ms.zip",
         "changeLog": "Accidentally introduced 200ms scroll wheel delay"
     },
     "1.2.0": {
-        "link": "https://github.com/Kuromis-2/newest-firmware/raw/main/fm6_dfu_package_1.2.0_iamadumbass_debounce.zip",
+        "fileName": "fm6_dfu_package_1.2.0_iamadumbass_debounce.zip",
         "changeLog": "1.5ms sym defer"
     },
     "1.2.5": {
-        "link": "https://github.com/Kuromis-2/newest-firmware/raw/main/fm6_dfu_package_1.2.5.zip",
+        "fileName": "fm6_dfu_package_1.2.5.zip",
         "changeLog": "Poseidon/Starlight Pro"
     }
 }

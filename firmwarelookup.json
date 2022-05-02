@@ -5,12 +5,12 @@
         "fileName": "fm6_dfu_package_0.5.80.zip",
         "changeLog": "First version"
     },
-    "1.2.0_200ms": {
-        "fileName": "fm6_dfu_package_1.2.0_200ms.zip",
+    "1.2.0": {
+        "fileName": "fm6_dfu_package_1.2.0.zip",
         "changeLog": "Accidentally introduced 200ms scroll wheel delay"
     },
-    "1.2.0": {
-        "fileName": "fm6_dfu_package_1.2.0_iamadumbass_debounce.zip",
+    "1.2.1": {
+        "fileName": "fm6_dfu_package_1.2.1.zip",
         "changeLog": "1.5ms sym defer"
     },
     "1.2.5": {

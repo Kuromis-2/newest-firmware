@@ -3,22 +3,22 @@
     "0.5.80": 
     {
         "fileName": "fm6_dfu_package_0.5.80.zip",
-        "changeLog": "First version"
+        "changeLog": "First update to the Starlight-12 Gods mice (Hades, Zeus, Achilles, Ares) that corrects the DPI values to their intended intervals at 400, 800, 1600, 3200. This firmware comes out of the box as default for the Starlight-12 Phantom/Pegasus."
     },
     "1.2.0": {
         "fileName": "fm6_dfu_package_1.2.0.zip",
-        "changeLog": "Accidentally introduced 200ms scroll wheel delay"
+        "changeLog": "Adds a 200ms delay to the scroll wheel up input as a remedy to accidental scroll wheel inputs from the end user.y"
     },
     "1.2.1": {
         "fileName": "fm6_dfu_package_1.2.1.zip",
-        "changeLog": "1.5ms sym defer"
+        "changeLog": "Lowers the click debounce from the 3.0ms to 1.5ms. Reverted the 200ms delay to scroll wheel up back to the original values."
     },
     "1.2.5": {
         "fileName": "fm6_dfu_package_1.2.5.zip",
-        "changeLog": "Poseidon/Starlight Pro"
+        "changeLog": "Changed debouncing algorithm from sym_defer_pk to asym_eager_defer_pk to lower click latency to 0ms on click and applies the debounce on release. Introduced wireless RF signal improvements for better channel hopping and improved motion data sent to the computer from the mouse. The Starlight-12 Poseidon does not come with 1.2.5 out of the box, so a firmware update to this version is highly recommended."
     },
     "1.2.6": {
         "fileName": "fm6_dfu_package_1.2.6.zip",
-        "changeLog": "Updated the scroll wheel input so that it does not cause accidental ghost scrolls/inputs"
+        "changeLog": "Updated the scroll wheel debounce algorithm so that accidental ghost scrolls/inputs are a lot less likely to happen. Also increased the release debounce from 6ms to 12ms to handle potential double clicking issues."
     }
 }

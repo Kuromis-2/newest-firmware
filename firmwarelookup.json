@@ -16,5 +16,9 @@
     "1.2.5": {
         "fileName": "fm6_dfu_package_1.2.5.zip",
         "changeLog": "Poseidon/Starlight Pro"
+    },
+    "1.2.6": {
+        "fileName": "fm6_dfu_package_1.2.5.zip",
+        "changeLog": "Updated the scroll wheel input so that it does not cause accidental ghost scrolls/inputs"
     }
 }
